@@ -18,6 +18,8 @@
 #PHPUNIT
 #MVC
 #POO
+#WSL
+#LINUX
 
 
 <!---
