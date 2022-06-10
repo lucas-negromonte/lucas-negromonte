@@ -1,23 +1,14 @@
-👋 Olá, bem-vindo
+👋Olá, Tudo bem?
 
-Eu sou Lucas Almeida Negromonte, moro em Ferraz de Vasconcelos - SP.
+Sou Lucas, moro em Ferraz de Vasconcelos - Zona Leste -SP.
 
-Graduado em análise e desenvolvimento de sistemas. Atualmente trabalho como programador web na TI Software.
+Formado em análise e desenvolvimento de sistemas pela Unip, trabalho com programação Web desde 2019.
 
-Comecei a trabalhar com desenvolvimento PHP em 2019, nesse período ganhei muita experiência com PHP nativo em MVC e POO com código limpo e padrões de projetos.
+Uma das melhores decisões que tomei na minha vida foi entrar nesse mundo da programação, hoje trabalho por prazer e gosto muito do que faço, estou sempre estudando para aprender novas tecnologias e sempre poder dar o meu melhor.
 
-Trabalhei em diversos tipos de projetos, tais como, Call-center, Relatórios Avançados, Delivery ,Controle de Estoque, Emissão de notas, Emissão de etiquetas, Danfe simplificado, Sistema de Afiliados, Repositório de Landing Pages, Cron jobs, Integração com plataformas (Cielo, Asaas, B2W, Pay me, dlocal, ASC Whatsapp, Outros..).
-
-Os desafios não param, devemos estar sempre preparados para enfrentar novos obstáculos.
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-negromonte-630950151/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas_negromonte.mj/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/people/Lucas-Negromonte/100009317230010/)
 
-#PHP #MYSQL #JQUERY #BOOTSTRAP #LARAVEL #JAVASCRIPT #DOCKER #GIT #RESTFULL #AJAX #JSON #API #PHPUNIT #TDD #POO #MVC #CLENCODE #DESIGN #PATTERN #PHPUNIT #MVC #POO #VUE.JS
-
-
-<!---
-lucas-negromonte/lucas-negromonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#PHP #MYSQL #MVC #POO #Laravel #API #PHPUNIT #Docker #TDD #PHPUNIT #Javascript #CLENCODE #PATTERN #Jquery #Bootstrap #GIT #RESTFULL #AJAX #JSON #VUE.JS
